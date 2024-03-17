@@ -162,12 +162,10 @@ form > a.botao {
     color: whitesmoke;
     padding-top: 5px;
     margin-top: 5px;
+    margin-bottom: 10px;
 }
 form > a.botao:hover {
     background-color: var(--cor4);
 
-}
-form > a.botao > span {
-    font-size: 0.8em;
 }
 
